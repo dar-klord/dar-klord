@@ -3,17 +3,11 @@
 <h5 align="center">Hello there! I'm Abhishek Shandilya, and I'm about to finish my B.Tech degree in Computer Science. I'm really curious about all things related to technology.
 
 I'm learning to create cool stuff with Java and Android. You know those apps on your phone? Yep, I want to make them! I'm also getting good at using tools like Android Studio and Intellij Idea.
-
 Right now, I'm exploring the world of Data Structures and Algorithms (DSA). It's like solving puzzles with code, and it's making me a better problem solver.
-
 I'm also checking out web development, which is like building websites and web apps. I'm interested in both the front part that people see and the back part that makes everything work. They call it full-stack development.
-
 Apart from all the tech stuff, I love playing games on my mobile and laptop. It's amazing how technology can make games so fun and interactive.
-
 My big goal is to work on projects that make people's lives better using technology. I'm also working hard to get really good at solving complex problems with code.
-
 I got interested in Java, Android, and DSA because they're everywhere in our lives. Java is like the Swiss Army knife of programming, Android powers most smartphones, and DSA helps us figure out smart ways to solve problems using code.
-
 If you want to talk tech, share ideas, or just chat, feel free to email me at gallantabhishekthakur@gmail.com or find me on LinkedIn as shandilya-abhishek. Let's learn and explore together!</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
