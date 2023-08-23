@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shandilya</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">🌱A passionate Android developer from India🚀</h3>
 <h5 align="center">🎓I'm about to finish my B.Tech degree in Computer Science. I'm really curious about all things related to technology.
 
 🚀 I'm learning to create cool stuff with Java and Android. You know those apps on your phone? Yep, I want to make them! I'm also getting good at using tools like Android Studio and Intellij Idea.
